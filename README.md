@@ -1,6 +1,6 @@
 # Playwright UI Smoke - SauceDemo (JavaScript)
 
-Proyecto de automatización **UI Smoke** con **Playwright Test** para https://www.saucedemo.com/.
+Proyecto de automatización **UI Smoke** con **Playwright Test** para https://www.saucedemo.com/. Creado con agentes de Playwrite Planning, Reparador y Ejecutador
 
 ## Requisitos
 - Node.js 18+
